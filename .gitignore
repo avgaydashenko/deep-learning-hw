@@ -1,3 +1,5 @@
+VOCdevkit/
+models/
 checkpoints/
 data/
 fashion-mnist/
