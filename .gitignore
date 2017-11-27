@@ -1,3 +1,11 @@
+improved_graph/
+VOCdevkit/
+models/
+checkpoints/
+data/
+fashion-mnist/
+graphs/
+	
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
